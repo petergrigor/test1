@@ -6,6 +6,7 @@
     <e p="C:\Users\Петр\test" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="rrr.cs" t="Include" />
         <e p="Scenes" t="Include" />
         <e p="test.cs" t="Include" />
       </e>
